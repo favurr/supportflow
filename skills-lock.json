@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "skills": {
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/frontend-design/SKILL.md",
+      "computedHash": "93f53fd1c0352d3d7ec17b8f73d7351bf76f4821e55d123c9d2abc2c53ba48e4"
+    },
+    "insforge": {
+      "source": "insforge/insforge-skills",
+      "sourceType": "github",
+      "skillPath": "skills/insforge/SKILL.md",
+      "computedHash": "87555ab4942721068f79747dc0279bb56a081f7ddf1bab6f16c1d1f8c466db11"
+    },
+    "insforge-cli": {
+      "source": "insforge/insforge-skills",
+      "sourceType": "github",
+      "skillPath": "skills/insforge-cli/SKILL.md",
+      "computedHash": "3eb2e3d2ec0ba5a5445735f9e4e5672568fd3cc37574562a030107bea524b1fb"
+    },
+    "insforge-debug": {
+      "source": "insforge/insforge-skills",
+      "sourceType": "github",
+      "skillPath": "skills/insforge-debug/SKILL.md",
+      "computedHash": "6cf3b1c731c605810a35459c7a9a59a7968b4dbd8e7e12dadd6cc7c4666feda8"
+    },
+    "insforge-integrations": {
+      "source": "insforge/insforge-skills",
+      "sourceType": "github",
+      "skillPath": "skills/insforge-integrations/SKILL.md",
+      "computedHash": "34697ea81a27f20140668244128a5ec1fc9b83350f8a5374658969e32963c829"
+    },
+    "shadcn": {
+      "source": "shadcn/ui",
+      "sourceType": "github",
+      "skillPath": "skills/shadcn/SKILL.md",
+      "computedHash": "0dc0edeeaec2ae491ae506806517866a3f9bd48d04e0458feb37e0252862891f"
+    }
+  }
+}
